@@ -1,2 +1,4 @@
 my name
 my address
+my email 
+my phone
