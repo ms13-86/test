@@ -1,6 +1,6 @@
 Data abc;
 set abc;
-if var1 < 0 then var2 = "1.negative";
+if var1 < 0 then var2 = "1. LT 0";
 else if 0<= var1 < 10 then var2 = "2.LT 10";
 else if 10<= var1 < 30 then var2 = "3.LT 30";
 else if 30<= var1 < 50 then var2 = "4.LT 50";
