@@ -1,0 +1,6 @@
+Data abc;
+set abc;
+if var1 < 0 then var2 = "1.negative";
+else if 0<= var1 < 10 then var2 = "2.LT 10";
+else var2 = "3.Others";
+run;
